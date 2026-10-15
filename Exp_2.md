@@ -32,7 +32,7 @@
 |---|---|
 | [`ecommerce_schema.sql`](ecommerce_schema.sql) | Complete script: tables, sample data, violations, CASCADE and SET NULL demos |
 | `Exp_2.md` | This lab record |
-|Handwritten| [Handwritten](Exp_2.pdf)|
+
 
 **How to run:**
 
