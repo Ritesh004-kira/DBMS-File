@@ -6,13 +6,13 @@
 
 <br/><br/>
 
-<img src="assets/banner-home.svg" width="100%" alt="Database Management System Lab – Ritesh Vishwakarma, UID 25LBCS3192, Section B, Group A"/>
+<img src="assets/banner-home.svg" width="100%" alt="Database Management System Lab – Ritesh Vishwakarma, UID 25LBCS3192, Section D, Group A"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/MySQL-8.0-264653?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8.0"/>
 <img src="https://img.shields.io/badge/Subject%20Code-25CSH--210-9A1750?style=for-the-badge" alt="25CSH-210"/>
-<img src="https://img.shields.io/badge/Section-B-E76F51?style=for-the-badge" alt="Section B"/>
+<img src="https://img.shields.io/badge/Section-D-E76F51?style=for-the-badge" alt="Section D"/>
 <img src="https://img.shields.io/badge/Group-A-2A9D8F?style=for-the-badge" alt="Group A"/>
 <img src="https://img.shields.io/badge/Experiments-6%2F10-6D597A?style=for-the-badge" alt="6 of 10 experiments"/>
 
@@ -41,7 +41,7 @@
 </tr>
 <tr><th align="left">UID</th><td><code>25LBCS3192</code></td></tr>
 <tr><th align="left">Program</th><td>BTech CSE (AIML) – Microsoft</td></tr>
-<tr><th align="left">Section</th><td>B</td></tr>
+<tr><th align="left">Section</th><td>D</td></tr>
 <tr><th align="left">Group</th><td>A</td></tr>
 <tr><th align="left">Subject Name</th><td>Database Management System</td></tr>
 <tr><th align="left">Subject Code</th><td><code>25CSH-210</code></td></tr>
@@ -250,7 +250,7 @@ $\color{#9C6610}{\textsf{Database Programming}}$
 &nbsp;&nbsp;&nbsp;
 <img src="assets/bytexl-logo.png" alt="ByteXL" height="28"/>
 
-**Ritesh Vishwakarma** · UID `25LBCS3192` · Section B · Group A
+**Ritesh Vishwakarma** · UID `25LBCS3192` · Section D · Group A
 
 <sub>Database Management System (25CSH-210) · BTech CSE (AIML) – Microsoft · provided by Microsoft and ByteXL</sub>
 
