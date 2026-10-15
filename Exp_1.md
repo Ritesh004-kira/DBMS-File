@@ -6,12 +6,7 @@
 <tr><th align="left">Name</th><td>Ritesh Vishwakarma</td><th align="left">UID</th><td><code>25LBCS3192</code></td></tr>
 <tr><th align="left">Experiment No.</th><td>01</td><th align="left">SQL Script</th><td><img src="https://img.shields.io/badge/SQL%20Script-not%20required%20%28design%29-6C757D?style=flat-square" alt="design experiment"/></td></tr>
 <tr><th align="left">Experiment Title</th><td colspan="3">ER Diagram for an Indian E-Commerce Platform</td></tr>
-<tr>
-    <th align="left">Hand Written</th>
-    <td colspan="3">
-        <a href="Exp_1.pdf" target="_blank">Exp_1.pdf</a>
-    </td>
-</tr>
+
 
 </table>
 
